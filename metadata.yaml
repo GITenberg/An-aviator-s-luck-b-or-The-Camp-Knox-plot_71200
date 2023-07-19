@@ -1,0 +1,24 @@
+_repo: An-aviator-s-luck-b-or-The-Camp-Knox-plot_71200
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cobb, Frank
+    gutenberg_agent_id: '33453'
+    url: http://www.gutenberg.org/2009/agents/33453
+description: ''
+gutenberg_issued: '2023-07-16'
+identifiers:
+  gutenberg: '71200'
+language: en
+pgterms:marc905: 20230606193325cobb
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aUnited States :$bSaalfield Publishing Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'An aviator''s luck : $b or The Camp Knox plot'
+url: http://www.gutenberg.org/ebooks/71200
