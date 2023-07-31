@@ -1,11 +1,16 @@
 _repo: An-aviator-s-luck-b-or-The-Camp-Knox-plot_71200
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71200-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Cobb, Frank
     gutenberg_agent_id: '33453'
     url: http://www.gutenberg.org/2009/agents/33453
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71200#An-aviator-s-luck-b-or-The-Camp-Knox-plot
 gutenberg_issued: '2023-07-16'
 identifiers:
   gutenberg: '71200'
